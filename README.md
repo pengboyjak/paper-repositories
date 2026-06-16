@@ -97,8 +97,6 @@ git clone https://github.com/<your-username>/paper-repositories.git ~/.claude/sk
 
 <img src="./assets/wechat-qr.png" alt="微信打赏码" width="260" style="border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.12);">
 
-*⬆️ 请将你的微信收款码替换为此图 ⬆️*
-
 </div>
 
 ### 💝 打赏说明
