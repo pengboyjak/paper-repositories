@@ -1,7 +1,7 @@
 # 全球学术论文库完整目录
 
 > **通用 AI 技能** — 适用于 ChatGPT、Claude、Gemini、DeepSeek、Kimi、通义千问、文心一言等所有智能体平台。
-> 共收录 **15 大类、350+ 个**论文库与学术资源，含名称、直达链接和简要说明。截至 2026 年 6 月最新数据。
+> 共收录 **15 大类、400+ 个**论文库与学术资源，含名称、直达链接和简要说明。截至 2026 年 6 月最新数据。
 
 ## 技能描述
 
@@ -189,6 +189,66 @@
 | **Avery Index to Architectural Periodicals** | [ebsco.com](https://www.ebsco.com) | 哥伦比亚大学维护的建筑期刊权威索引 |
 | **JSTOR Sustainability Collection** | [jstor.org](https://www.jstor.org) | 可持续发展/城市规划主题，含期刊、电子书和 5,000+ 智库报告 |
 | **Urban Studies Abstracts** | [ebsco.com](https://www.ebsco.com) | EBSCO 城市研究文摘，覆盖城市规划与发展 |
+
+### 🏛️ 人类学与考古学
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **Anthropology Plus** | [ebsco.com](https://www.ebsco.com) | 综合人类学索引，合并哈佛 Anthropological Literature + 皇家人类学研究所 Anthropological Index，19 世纪末至今，50+ 语言 |
+| **AnthroSource** | [anthrosource.onlinelibrary.wiley.com](https://anthrosource.onlinelibrary.wiley.com) | 美国人类学学会 (AAA) 全文库，32+ 种期刊，25 万+ 篇文章 |
+| **eHRAF World Cultures** | [ehrafworldcultures.yale.edu](https://ehrafworldcultures.yale.edu) | 跨文化民族志全文数据库，35 万+ 页段落级索引文档 |
+| **eHRAF Archaeology** | [ehrafarchaeology.yale.edu](https://ehrafarchaeology.yale.edu) | 跨文化考古学全文数据库，按考古传统与区域组织 |
+| **Abstracts in Anthropology** | [sagepub.com](https://journals.sagepub.com) | 人类学四子领域综合文摘 |
+| **tDAR (The Digital Archaeological Record)** | [tdar.org](https://www.tdar.org) | 国际考古数据仓储（亚利桑那大学），支持 GIS/3D/遥感，DOI 引用 |
+| **Open Context** | [opencontext.org](https://opencontext.org) | 开放获取考古田野数据发表平台，含编辑同行评审，Linked Data |
+| **Archaeology Data Service (ADS)** | [archaeologydataservice.ac.uk](https://archaeologydataservice.ac.uk) | 英国与爱尔兰考古学核心数字仓储 |
+| **DINAA** | [dinaa.utk.edu](https://dinaa.utk.edu) | 北美考古数字索引，聚合州级遗址数据 |
+| **Journal of Open Archaeology Data (JOAD)** | [openarchaeologydata.org](https://openarchaeologydata.org) | 同行评审考古数据论文，描述可复用考古数据集 |
+
+### 🗣️ 语言学
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **Linguistics & Language Behavior Abstracts (LLBA)** | [proquest.com](https://about.proquest.com/en/products-services/llba/) | 语言学核心文摘库（1973 年至今），约 2,000 种期刊，年增 14,000 条 |
+| **MLA International Bibliography** | [mla.org](https://www.mla.org/Publications/MLA-International-Bibliography) | 现代语言协会出品，300 万+ 引用，6,000+ 期刊/丛书，70+ 语言（1926 年起） |
+| **Linguistic Bibliography (Brill)** | [bibliographie.linguistik.uni-frankfurt.de](https://bibliographie.linguistik.uni-frankfurt.de) | 所有语言学分支书目数据库（1949 年起），国际覆盖广泛 |
+| **OLAC (Open Language Archives Community)** | [olac.ldc.upenn.edu](http://www.language-archives.org) | 元搜索平台，聚合数十个数字与传统档案馆的语言资源，免费 |
+| **PARADISEC** | [paradisec.org.au](https://www.paradisec.org.au) | 太平洋与亚太濒危文化数字资源档案，含录音/转写/田野笔记 |
+
+### 📡 传播学与媒体研究
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **Communication Source / CMMC** | [ebsco.com](https://www.ebsco.com) | EBSCO 传播与大众媒体全文数据库，1,000+ 核心期刊，1915 年至今 |
+| **ComAbstracts** | [cios.org](https://www.cios.org) | 传播学研究所 (CIOS) 核心期刊文摘数据库 |
+
+### 👥 社会学
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **Sociological Abstracts** | [proquest.com](https://about.proquest.com/en/products-services/sociological-abstracts/) | ProQuest 社会学核心文摘库（1952 年至今） |
+| **SocINDEX with Full Text** | [ebsco.com](https://www.ebsco.com) | EBSCO 社会学全文旗舰数据库 |
+| **IBSS (International Bibliography of the Social Sciences)** | [proquest.com](https://about.proquest.com/en/products-services/ibss/) | 国际社会科学书目，含人类学/经济学/政治学/社会学（1951 年起） |
+
+### 🌏 区域研究
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **Bibliography of Asian Studies (BAS)** | [ebsco.com](https://www.ebsco.com) | 亚洲研究协会出品，近 90 万条东亚/东南亚/南亚研究西文引用（1971 年起） |
+| **Index Islamicus** | [brill.com](https://brill.com) | Brill 出品，伊斯兰/中东/非洲与亚洲穆斯林地区书目（1906 年起），2,000+ 期刊 |
+| **Handbook of Latin American Studies (HLAS)** | [loc.gov](https://www.loc.gov) | 美国国会图书馆拉美研究手册（1935 年起），含人文与社科，免费（2026 年 1 月后新平台建设中） |
+| **HAPI (Hispanic American Periodicals Index)** | [hapi.ucla.edu](https://hapi.ucla.edu) | 中/南美洲、墨西哥、加勒比及美国西语裔期刊文章索引 |
+| **Africa-Wide Information** | [ebsco.com](https://www.ebsco.com) | 非洲研究综合数据库，覆盖 19 世纪至今的书籍/期刊/广播/报纸/地图/报告 |
+| **International African Bibliography Online (IABO)** | [brill.com](https://brill.com) | Brill 出品，14 万+ 条目（1971-2015），非洲研究权威书目 |
+| **ABSEES** | [ebsco.com](https://www.ebsco.com) | 美国斯拉夫与东欧研究书目（1990 年起） |
+| **CEEAS (Central and Eastern European Academic Source)** | [ebsco.com](https://www.ebsco.com) | 中欧与东欧全文多学科学术期刊 |
+| **Al Masdar (Arab World Research Source)** | [ebsco.com](https://www.ebsco.com) | 阿拉伯/中东/伊斯兰研究全文数据库，英阿双语 |
+
+### 📊 期刊评价与分析
+
+| 平台 | 链接 | 说明 |
+|------|------|------|
+| **MIAR** | [miar.ub.edu](https://miar.ub.edu) | 巴塞罗那大学期刊信息矩阵，显示各期刊被哪些索引数据库收录，免费 |
 
 ---
 
@@ -753,8 +813,18 @@
 | 哲学 | PhilPapers → PhilArchive → PhilSci-Archive |
 | 艺术/建筑 | Art & Architecture Source → Avery Index → Performing Arts Periodicals |
 | 城市规划 | Avery Index → JSTOR Sustainability → Urban Studies Abstracts |
-| 社会科学 | SSRN → SocArXiv → Scopus → ICPSR |
+| 社会科学 | SSRN → SocArXiv → Scopus → ICPSR → IBSS |
 | 人文科学 | JSTOR → Project MUSE → Humanities Commons CORE |
+| 人类学 | Anthropology Plus → AnthroSource → eHRAF → tDAR → Open Context |
+| 考古学 | tDAR → Open Context → ADS → eHRAF Archaeology → DINAA |
+| 语言学 | LLBA → MLA International Bibliography → OLAC → Linguistic Bibliography → PARADISEC |
+| 传播学/媒体 | Communication Source (CMMC) → ComAbstracts |
+| 社会学 | Sociological Abstracts → SocINDEX → IBSS |
+| 区域研究(亚洲) | Bibliography of Asian Studies → 知网 |
+| 区域研究(中东) | Index Islamicus → Al Masdar |
+| 区域研究(拉美) | HLAS → HAPI → SciELO → Redalyc |
+| 区域研究(非洲) | Africa-Wide Information → AJOL → IABO |
+| 区域研究(东欧) | ABSEES → CEEAS |
 
 ---
 

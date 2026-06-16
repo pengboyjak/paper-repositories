@@ -1,12 +1,12 @@
 # 📚 全球学术论文库完整目录（Paper Repositories）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Total Repositories](https://img.shields.io/badge/收录资源-350%2B-blue)](./SKILL.md)
+[![Total Repositories](https://img.shields.io/badge/收录资源-400%2B-blue)](./SKILL.md)
 [![Categories](https://img.shields.io/badge/分类-15大类-green)](./SKILL.md)
 [![AI Platforms](https://img.shields.io/badge/通用AI技能-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Kimi%20%7C%20...-8A2BE2)](./SKILL.md)
 [![Updated](https://img.shields.io/badge/更新-2026.06-orange)](./SKILL.md)
 
-> 🎯 **一个文件，覆盖全球 350+ 个学术资源。** 通用 AI 技能，不绑定任何特定平台。按 15 大类精确分类，涵盖论文库、灰色文献、国际组织文档、标准专利、AI 研究工具等全类型学术资源。
+> 🎯 **一个文件，覆盖全球 400+ 个学术资源。** 通用 AI 技能，不绑定任何特定平台。按 15 大类精确分类，涵盖论文库、灰色文献、国际组织文档、标准专利、AI 研究工具等全类型学术资源。
 
 ---
 
@@ -30,7 +30,7 @@
 | 编号 | 分类 | 收录数 | 说明 |
 |:---:|------|:---:|------|
 | 一 | **综合引文与发现平台** | 12 | WoS、Scopus、Dimensions、OpenAlex、Semantic Scholar、AMiner… |
-| 二 | **学科专题数据库** | 60+ | 生物医学/护理/牙科/药学/兽医/CS/化学/物理/数学/工程/地球/海洋/农业/心理/经济/商学/教育/法学/哲学/艺术/建筑/城市规划… |
+| 二 | **学科专题数据库** | 90+ | 生物医学/护理/牙科/药学/兽医/CS/化学/物理/数学/工程/地球海洋/农业/心理/经济/商学/教育/法学/哲学/艺术/建筑/人类学/考古学/语言学/传播学/社会学/区域研究… |
 | 三 | **预印本平台** | 40+ | 多学科/生命科学/医学/化学/物理工程/地球科学/心理/社科/人文/经济/农业/光学/区域预印本 |
 | 四 | **开放获取聚合平台** | 6 | CORE、OpenAIRE、DOAJ 等 |
 | 五 | **学位论文库** | 11 | 中英美加法德印西全球博硕士论文（含商用+开放获取） |
@@ -81,7 +81,7 @@ git clone https://github.com/<your-username>/paper-repositories.git
 
 ## ✨ 特色
 
-- ✅ **350+ 个学术资源**，覆盖全球主流论文库 + 灰色文献 + 国际组织文档 + 标准专利
+- ✅ **400+ 个学术资源**，覆盖全球主流论文库 + 灰色文献 + 国际组织文档 + 标准专利
 - ✅ **15 大类精细分类**，按资源类型、学科、区域、用途四维组织
 - ✅ **2025-2026 AI 工具全覆盖**：Ai2 Asta、Consensus、Elicit、ResearchRabbit、Undermind、Liner Scholar 等 26 个 AI 工具
 - ✅ **每条含直达链接**，一键跳转
