@@ -3,8 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Total Repositories](https://img.shields.io/badge/收录论文库-200%2B-blue)](./SKILL.md)
 [![Categories](https://img.shields.io/badge/分类-12大类-green)](./SKILL.md)
+[![AI Platforms](https://img.shields.io/badge/通用AI技能-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Kimi%20%7C%20...-8A2BE2)](./SKILL.md)
 
-> 🎯 **一个文件，覆盖全球 200+ 个学术论文库。** 按 12 大类精确分类，每个条目含名称、直达链接和简要说明。
+> 🎯 **一个文件，覆盖全球 200+ 个学术论文库。** 通用 AI 技能，不绑定任何特定平台。按 12 大类精确分类，每个条目含名称、直达链接和简要说明。
 
 ---
 
@@ -42,27 +43,35 @@
 
 ---
 
-## 📖 快速使用
+## 📖 使用方式
 
-### 方式一：直接查阅 SKILL.md
+### 方式一：在线浏览
 
-打开 [SKILL.md](./SKILL.md)，按分类浏览。末尾附有：
+直接在 GitHub 上浏览 [SKILL.md](./SKILL.md)，所有链接均为可点击的 Markdown 格式，按分类查阅即可。
+
+### 方式二：导入 AI 平台
+
+将此文件作为知识库/技能导入你使用的 AI 平台：
+
+| 平台 | 导入方式 |
+|------|----------|
+| **ChatGPT** | 上传为自定义 GPT 知识文件，或粘贴到 System Prompt |
+| **Claude** | 放入 Projects 知识库或作为 Skill 使用 |
+| **Gemini** | 上传为知识库文件 |
+| **DeepSeek / Kimi / 通义千问 / 文心一言** | 粘贴到系统提示词或知识库 |
+| **其他 AI 平台** | 将此 Markdown 文件作为上下文/知识源加载 |
+
+### 方式三：直接查阅 SKILL.md
+
+下载或克隆仓库后，打开 [SKILL.md](./SKILL.md) 按分类浏览。末尾附有：
 - **按场景快速索引**：泛调研 / 系统综述 / 查学位论文 / 找免费全文…
 - **按学科快速索引**：13 个学科的首选数据库推荐
 
-### 方式二：安装为 Claude Code 技能
-
-将本仓库克隆到 Claude Code 的 skills 目录：
+### 方式四：命令行克隆
 
 ```bash
-git clone https://github.com/<your-username>/paper-repositories.git ~/.claude/skills/paper-repositories
+git clone https://github.com/<your-username>/paper-repositories.git
 ```
-
-之后在 Claude Code 中，直接问"在哪里找论文"或"有什么论文库"，技能会自动触发。
-
-### 方式三：在线浏览
-
-直接在 GitHub 上浏览 [SKILL.md](./SKILL.md)，所有链接均为可点击的 Markdown 格式。
 
 ---
 
@@ -73,6 +82,7 @@ git clone https://github.com/<your-username>/paper-repositories.git ~/.claude/sk
 - ✅ **每条含直达链接**，一键跳转
 - ✅ **中英双语标注**，国内国外资源兼顾
 - ✅ **快速索引表**，按场景和学科秒速定位
+- ✅ **通用 AI 技能**，可导入 ChatGPT / Claude / Gemini / DeepSeek / Kimi 等任意 AI 平台
 - ✅ **定期更新**，保持链接有效
 
 ---
