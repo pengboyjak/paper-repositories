@@ -1,11 +1,12 @@
 # 📚 全球学术论文库完整目录（Paper Repositories）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Total Repositories](https://img.shields.io/badge/收录论文库-200%2B-blue)](./SKILL.md)
-[![Categories](https://img.shields.io/badge/分类-12大类-green)](./SKILL.md)
+[![Total Repositories](https://img.shields.io/badge/收录资源-350%2B-blue)](./SKILL.md)
+[![Categories](https://img.shields.io/badge/分类-15大类-green)](./SKILL.md)
 [![AI Platforms](https://img.shields.io/badge/通用AI技能-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Kimi%20%7C%20...-8A2BE2)](./SKILL.md)
+[![Updated](https://img.shields.io/badge/更新-2026.06-orange)](./SKILL.md)
 
-> 🎯 **一个文件，覆盖全球 200+ 个学术论文库。** 通用 AI 技能，不绑定任何特定平台。按 12 大类精确分类，每个条目含名称、直达链接和简要说明。
+> 🎯 **一个文件，覆盖全球 350+ 个学术资源。** 通用 AI 技能，不绑定任何特定平台。按 15 大类精确分类，涵盖论文库、灰色文献、国际组织文档、标准专利、AI 研究工具等全类型学术资源。
 
 ---
 
@@ -24,22 +25,25 @@
 
 ---
 
-## 📋 12 大分类
+## 📋 15 大分类
 
 | 编号 | 分类 | 收录数 | 说明 |
 |:---:|------|:---:|------|
-| 一 | **综合引文与发现平台** | 10 | WoS、Scopus、Dimensions、Google Scholar、OpenAlex… |
-| 二 | **学科专题数据库** | 30+ | 生物医学/CS/化学/物理/数学/工程/心理/经济/教育/法学/哲学/地质 |
-| 三 | **预印本平台** | 35+ | arXiv、bioRxiv、medRxiv、ChemRxiv、SSRN… |
+| 一 | **综合引文与发现平台** | 12 | WoS、Scopus、Dimensions、OpenAlex、Semantic Scholar、AMiner… |
+| 二 | **学科专题数据库** | 60+ | 生物医学/护理/牙科/药学/兽医/CS/化学/物理/数学/工程/地球/海洋/农业/心理/经济/商学/教育/法学/哲学/艺术/建筑/城市规划… |
+| 三 | **预印本平台** | 40+ | 多学科/生命科学/医学/化学/物理工程/地球科学/心理/社科/人文/经济/农业/光学/区域预印本 |
 | 四 | **开放获取聚合平台** | 6 | CORE、OpenAIRE、DOAJ 等 |
-| 五 | **学位论文库** | 9 | 中英美加法德印西全球博硕士论文 |
-| 六 | **学术图书与专著库** | 10 | DOAB、OAPEN、HathiTrust 等 |
-| 七 | **研究数据仓储** | 12 | 通用型 + 领域专用 + 发现工具 |
-| 八 | **出版商全文平台** | 16 | Elsevier/Springer/Wiley/OUP + OA 出版商 |
-| 九 | **区域与国家级平台** | 18 | 拉美/非洲/日本/欧洲各国/加拿大/俄罗斯/印度/韩国/泰国 |
-| 十 | **中文学术资源** | 11 | 知网/万方/维普/PubScholar/NCPSSD 等 |
-| 十一 | **AI 驱动与新型工具** | 10 | Elicit、Consensus、ResearchRabbit、Scite.ai… |
-| 十二 | **实用发现工具与目录** | 10 | OpenDOAR、re3data、ASAPbio 目录等 |
+| 五 | **学位论文库** | 11 | 中英美加法德印西全球博硕士论文（含商用+开放获取） |
+| 六 | **学术图书与数字图书馆** | 16 | DOAB、OAPEN、HathiTrust、Internet Archive、DPLA、世界数字图书馆等 |
+| 七 | **研究数据仓储** | 14 | 通用型 + 领域专用 + 发现工具 |
+| 八 | **出版商全文平台** | 18 | Elsevier/Springer/Wiley/OUP + JISC/PLOS 等 OA 出版商 |
+| 九 | **区域与国家级平台** | 30+ | 拉美/非洲/日本/欧洲各国/英国/加拿大/澳大利亚/俄罗斯/印度/韩国/泰国 + 国家图书馆数字馆藏 |
+| 十 | **中文学术资源** | 14 | 知网/万方/维普/PubScholar/NCPSSD/CNKI AI/北大数字图书馆 等 |
+| 十一 | **AI 驱动与新型工具** | 26 | 2025-2026 年最全 AI 学术工具：Ai2 Asta、Consensus、Elicit、ResearchRabbit、Undermind、Liner Scholar、LeapSpace… |
+| 十二 | **政府/政策/灰色文献** | 20 | Policy Commons、Overton、智库检索、国会文件、NTRL、ClinicalTrials.gov… |
+| 十三 | **国际组织文献库** | 13 | UN/WB/OECD/WHO/UNESCO/FAO/IMF/ILO/EU/EIU… |
+| 十四 | **标准、专利与专门资源** | 10 | ASTM/IEEE/ISO 标准、Espacenet/Derwent 专利、研究方法论工具 |
+| 十五 | **实用发现工具与目录** | 14 | OpenDOAR、re3data、ASAPbio 目录、NGO/IGO Search、Sherpa Romeo… |
 
 ---
 
@@ -64,8 +68,8 @@
 ### 方式三：直接查阅 SKILL.md
 
 下载或克隆仓库后，打开 [SKILL.md](./SKILL.md) 按分类浏览。末尾附有：
-- **按场景快速索引**：泛调研 / 系统综述 / 查学位论文 / 找免费全文…
-- **按学科快速索引**：13 个学科的首选数据库推荐
+- **按场景快速索引**：泛调研 / 系统综述 / 追最新研究 / 政策文献 / AI 辅助筛选 / 国际组织报告…
+- **按学科快速索引**：30 个学科的首选数据库推荐
 
 ### 方式四：命令行克隆
 
@@ -77,13 +81,14 @@ git clone https://github.com/<your-username>/paper-repositories.git
 
 ## ✨ 特色
 
-- ✅ **200+ 个论文库**，覆盖全球主流学术资源
-- ✅ **12 大类精细分类**，按资源类型、学科、区域三维组织
+- ✅ **350+ 个学术资源**，覆盖全球主流论文库 + 灰色文献 + 国际组织文档 + 标准专利
+- ✅ **15 大类精细分类**，按资源类型、学科、区域、用途四维组织
+- ✅ **2025-2026 AI 工具全覆盖**：Ai2 Asta、Consensus、Elicit、ResearchRabbit、Undermind、Liner Scholar 等 26 个 AI 工具
 - ✅ **每条含直达链接**，一键跳转
 - ✅ **中英双语标注**，国内国外资源兼顾
-- ✅ **快速索引表**，按场景和学科秒速定位
+- ✅ **快速索引表**，按 15 个场景 + 30 个学科秒速定位
 - ✅ **通用 AI 技能**，可导入 ChatGPT / Claude / Gemini / DeepSeek / Kimi 等任意 AI 平台
-- ✅ **定期更新**，保持链接有效
+- ✅ **定期更新**，截至 2026 年 6 月最新数据
 
 ---
 
