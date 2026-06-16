@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Total Repositories](https://img.shields.io/badge/收录资源-400%2B-blue)](./SKILL.md)
 [![Categories](https://img.shields.io/badge/分类-15大类-green)](./SKILL.md)
-[![AI Platforms](https://img.shields.io/badge/通用AI技能-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Kimi%20%7C%20...-8A2BE2)](./SKILL.md)
+[![AI Platforms](https://img.shields.io/badge/通用AI技能-ChatGPT%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Kimi%20%7C%20...-8A2BE2)](./SKILL.md)
 [![Updated](https://img.shields.io/badge/更新-2026.06-orange)](./SKILL.md)
 
 > 🎯 **一个文件，覆盖全球 400+ 个学术资源。** 通用 AI 技能，不绑定任何特定平台。按 15 大类精确分类，涵盖论文库、灰色文献、国际组织文档、标准专利、AI 研究工具等全类型学术资源。
@@ -60,7 +60,6 @@
 | 平台 | 导入方式 |
 |------|----------|
 | **ChatGPT** | 上传为自定义 GPT 知识文件，或粘贴到 System Prompt |
-| **Claude** | 放入 Projects 知识库或作为 Skill 使用 |
 | **Gemini** | 上传为知识库文件 |
 | **DeepSeek / Kimi / 通义千问 / 文心一言** | 粘贴到系统提示词或知识库 |
 | **其他 AI 平台** | 将此 Markdown 文件作为上下文/知识源加载 |
@@ -87,7 +86,7 @@ git clone https://github.com/<your-username>/paper-repositories.git
 - ✅ **每条含直达链接**，一键跳转
 - ✅ **中英双语标注**，国内国外资源兼顾
 - ✅ **快速索引表**，按 15 个场景 + 30 个学科秒速定位
-- ✅ **通用 AI 技能**，可导入 ChatGPT / Claude / Gemini / DeepSeek / Kimi 等任意 AI 平台
+- ✅ **通用 AI 技能**，可导入 ChatGPT / Gemini / DeepSeek / Kimi 等任意 AI 平台
 - ✅ **定期更新**，截至 2026 年 6 月最新数据
 
 ---

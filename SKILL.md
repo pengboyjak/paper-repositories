@@ -1,6 +1,6 @@
 # 全球学术论文库完整目录
 
-> **通用 AI 技能** — 适用于 ChatGPT、Claude、Gemini、DeepSeek、Kimi、通义千问、文心一言等所有智能体平台。
+> **通用 AI 技能** — 适用于 ChatGPT、Gemini、DeepSeek、Kimi、通义千问、文心一言等所有智能体平台。
 > 共收录 **15 大类、400+ 个**论文库与学术资源，含名称、直达链接和简要说明。截至 2026 年 6 月最新数据。
 
 ## 技能描述
@@ -11,7 +11,6 @@
 
 可将此文件作为知识库/技能/Plugin/Instruction 导入到任意 AI 平台使用：
 - **ChatGPT** — 上传为自定义 GPT 知识文件，或粘贴到 System Prompt
-- **Claude** — 放入 Projects 知识库或作为 Skill 使用
 - **Gemini** — 上传为知识库文件
 - **DeepSeek / Kimi / 通义千问 / 文心一言** — 粘贴到系统提示词或知识库
 - **其他 AI 平台** — 将此 Markdown 文件作为上下文/知识源加载即可
